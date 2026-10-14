@@ -1,0 +1,3 @@
+com\expensetracker\controller\ExpenseControllerTest.class
+com\expensetracker\repository\ExpenseRepositoryTest.class
+com\expensetracker\service\ExpenseServiceTest.class
